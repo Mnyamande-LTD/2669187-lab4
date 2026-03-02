@@ -45,3 +45,16 @@
 .hidden {
     display: none;
 }
+
+.neighbor-card {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.neighbor-card img {
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+}
